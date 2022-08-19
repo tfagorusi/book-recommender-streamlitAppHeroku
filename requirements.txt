@@ -19,5 +19,4 @@ streamlit==0.81.1
 urllib3==1.26.6
 xlrd==1.2.0
 yapf==0.31.0
-zipp==3.5.0
-protbuf==3.20.1
+protobuf==3.20.1
